@@ -1,0 +1,10 @@
+C:\Users\as444\OneDrive\Desktop\PW 2019\Paweł Nowak\Lotniskowiec\Lotniskowiec\bin\Debug\Lotniskowiec.exe.config
+C:\Users\as444\OneDrive\Desktop\PW 2019\Paweł Nowak\Lotniskowiec\Lotniskowiec\bin\Debug\Lotniskowiec.exe
+C:\Users\as444\OneDrive\Desktop\PW 2019\Paweł Nowak\Lotniskowiec\Lotniskowiec\bin\Debug\Lotniskowiec.pdb
+C:\Users\as444\OneDrive\Desktop\PW 2019\Paweł Nowak\Lotniskowiec\Lotniskowiec\obj\Debug\Lotniskowiec.csprojAssemblyReference.cache
+C:\Users\as444\OneDrive\Desktop\PW 2019\Paweł Nowak\Lotniskowiec\Lotniskowiec\obj\Debug\Lotniskowiec.Form1.resources
+C:\Users\as444\OneDrive\Desktop\PW 2019\Paweł Nowak\Lotniskowiec\Lotniskowiec\obj\Debug\Lotniskowiec.Properties.Resources.resources
+C:\Users\as444\OneDrive\Desktop\PW 2019\Paweł Nowak\Lotniskowiec\Lotniskowiec\obj\Debug\Lotniskowiec.csproj.GenerateResource.cache
+C:\Users\as444\OneDrive\Desktop\PW 2019\Paweł Nowak\Lotniskowiec\Lotniskowiec\obj\Debug\Lotniskowiec.csproj.CoreCompileInputs.cache
+C:\Users\as444\OneDrive\Desktop\PW 2019\Paweł Nowak\Lotniskowiec\Lotniskowiec\obj\Debug\Lotniskowiec.exe
+C:\Users\as444\OneDrive\Desktop\PW 2019\Paweł Nowak\Lotniskowiec\Lotniskowiec\obj\Debug\Lotniskowiec.pdb
